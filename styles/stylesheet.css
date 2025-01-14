@@ -248,7 +248,7 @@ aside>* {
     max-width: 1088px;
     width: 100%;
     align-self: flex-end;
-    margin-bottom: 2rem;
+    padding-bottom: 2rem;
 }
 
 .mainContentContainer>* {
