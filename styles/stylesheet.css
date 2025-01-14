@@ -48,6 +48,18 @@ body>* {
     border: 1px solid var(--vibrant-clr);
 }
 
+/* STYLING SCROLLBAR */
+
+::-webkit-scrollbar {
+    width: .5rem;
+    height: .5rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--vibrant-clr);
+    border-radius: .625rem;
+}
+
 /* header */
 
 header {
