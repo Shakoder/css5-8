@@ -147,6 +147,7 @@ aside {
     background-color: var(--main-components-bck-clr);
     border-right: 1px solid var(--main-components-brd-clr);
     padding: 1rem 1rem 0;
+    min-height: 1747px; 
 }
 
 aside>* {
@@ -246,8 +247,7 @@ aside>* {
     gap: 2rem;
     max-width: 1088px;
     width: 100%;
-    margin-top: 6.5rem;
-    /* align self-ით ვერა და ვერ ჩამოვწიე ქვემოთ */
+    align-self: flex-end;
     margin-bottom: 2rem;
 }
 
